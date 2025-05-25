@@ -10,7 +10,8 @@
         }
         .title_text {
             color: black;
-            padding-top: 20px;
+            padding-top: 5px;
+            padding-top: 56px;
         }
         label {
             display:inline-block;
